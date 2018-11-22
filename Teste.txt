@@ -1,1 +1,3 @@
 teste alterado
+
+Inserido esta linha. para comparer de comite
